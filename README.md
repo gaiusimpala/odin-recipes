@@ -1,1 +1,2 @@
 # odin-recipes
+Okay, so this is the first README for TOP. I'm going to creating a super basic project which is apparently going to be a recipe page, utilising the rudimentary html skills I've managed to stitch together so far. I expect this to be fugly.
